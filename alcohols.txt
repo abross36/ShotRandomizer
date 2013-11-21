@@ -1,0 +1,299 @@
+Absinthe
+Vodka currant
+Vodka pepper
+Advocaat
+Aftershock
+Ale
+Alizé
+Amaretto
+Amer Picon
+Rum anejo
+Anisette
+Aperol
+Brandy apple
+Schnapps apple
+Brandy apricot
+Aquavit
+Rum overproof/151 proof
+Rum black
+Rum lemon
+Liqueur banana
+Becherovka
+Beer
+Benedictine
+Sambuca black
+Brandy blackberry
+Schnapps blackberry
+Blackcurrant Cordial
+Bourbon blended
+Whiskey blended
+Curacao blue
+Blue Maui
+Brandy blueberry
+Schnapps blueberry
+Bourbon
+Brandy
+Schnapps butterscotch
+Cachaca
+Campari
+Whiskey Canadian
+Liqueur caramel
+Champagne
+Brandy cherry
+Liqueur cherry
+Liqueur chocolate mint
+Schnapps cinnamon
+Liqueur coconut
+Rum coconut
+Brandy coffee
+Cognac
+Cointreau
+Liqueur cranberry
+Vodka cranberry
+Sherry cream
+Creme de Almond
+Creme de Cassis
+Creme de Grand Marnier
+Creme de Noyaux
+Curacao white
+Creme de Cacao dark
+Rum dark
+Drambuie
+Sherry dry
+Vermouth dry
+Dubonnet blanc
+Dubonnet rouge
+Vermouth extra dry
+Fernet Branca
+Vodka pineapple
+Frangelico
+Galliano
+Genever
+Gin
+Ginger Beer
+Godiva dark chocolate
+Rum gold
+Tequila gold
+Goldschläger
+Grand Marnier
+Chartreuse green
+Creme de Menthe green
+Green Ginger Wine
+Guinness
+Cider hard
+Whiskey Irish
+Jack Daniel's
+Rum Jamaican
+Jägermeister
+Kahlua
+Kamora
+Kirsch
+Kümmel
+Lager
+Vodka lemon
+Licor 43 (Cuarenta Y Tres)
+Rum light
+Lillet
+Lime Cordial
+Madeira
+Liqueur maraschino
+Maui
+Metaxa
+Schnapps mint
+Mandarine Napolean
+Vodka orange
+Ouzo
+Parfait Amour
+Passoa
+Brandy peach
+Schnapps peach
+Schnapps peppermint
+Pernod
+Pisang Ambon
+Port
+Liqueur raspberry
+Rum red
+Wine red
+Rock & Rye
+Schnapps root beer
+Port ruby
+Rumple Minze
+Saké
+Sambuca
+Whiskey Scotch
+Sherry
+Sloe Gin
+Sour Apple Pucker
+Southern Comfort
+Wine sparkling
+Rum spiced
+Stout
+Schnapps strawberry
+Strega
+Swedish Punsch
+Vermouth sweet
+Port tawny
+Tequila Rose
+Tequila white
+Tia Maria
+Tuaca
+Liqueur vanilla
+Vodka vanilla
+Vodka
+Schnapps watermelon
+Whiskey straight grain
+Creme de Cacao white
+Creme de Menthe white
+Rum white
+Wine white
+Schnapps wild berry
+Wild Spirit
+Wild Turkey 101
+Wild Turkey
+Chartreuse yellow
+Yukon Jack
+Zima
+Triple Sec
+Everclear
+Schnapps lemon
+Anis
+Liqueur coffee
+Liqueur melon
+Liqueur strawberry
+Liqueur lime
+Vodka lime
+Curacao green
+Liqueur rum cream
+Schnapps blue Hawaiian
+Schnapps raspberry
+Vodka raspberry
+Rum vanilla
+Sangria
+Amarula Cream
+Schnapps vanilla
+Curacao orange
+Vodka peach
+Liqueur mint
+Vodka strawberry
+Baja Luna
+Damiana
+Advocaat cherry
+Sour Raspberry Pucker
+Sour Watermelon Pucker
+Cognac remy red
+Rum orange
+Schnapps black cherry
+Liqueur white chocolate
+Whiskey cherry
+Liqueur blackberry
+Schnapps pear
+Sour Pineapple Pucker
+Vodka melon
+Gin lemon
+Vodka cherry
+Hpnotiq
+Liqueur lychee
+Godiva cappuccino
+Vodka apple
+Rum mango
+Sour Blue Pucker
+Sour Peach Pucker
+Rum pineapple
+Sour Cherry Pucker
+Rum Cream
+Vodka Cooler
+Godiva white
+Vodka caramel
+Brandy plum
+Brandy pear
+Rum raspberry
+Tequila anejo
+Vodka watermelon
+Liqueur chocolate chip cookie
+Sour Grape Pucker
+Port white
+Liqueur mango
+Rum banana
+Arak
+Liqueur artichoke
+Liqueur pineapple
+Liqueur papaya
+Vermouth red
+Ciclón
+Sour Cheri-Beri Pucker
+Gin lime
+Rum apple
+Vodka coconut
+Vodka cinnamon
+Amer
+Liqueur blueberry
+Everglo
+Bärenjäger
+Liqueur chocolate
+Vodka mango
+Rum passion fruit
+Vodka spiced
+Rum citrus
+Vodka espresso
+Strawberry Soda
+Mead
+Liqueur honey
+Liquore Gaetano
+Wine fortified
+Liqueur lemon
+Vodka grape
+Sour Orange Pucker
+Glayva
+Liqueur tequila
+Liqueur orange
+Jim Beam
+Crown Royal
+Midori
+Irish Cream
+Bailey's
+Whiskey vanilla
+Amaro
+Rum watermelon
+Liqueur fusion
+Vodka chocolate
+Sour Strawberry Pucker
+Vodka blueberry
+Vodka black
+Liqueur pomegranate
+Liqueur hazelnut
+Tequila flavoured
+Schnapps pineapple
+Sour Berry Fusion Pucker
+Liqueur pumpkin
+Liqueur peach
+Vodka pear
+Schnapps pomegranate
+Schnapps cherry
+Limoncello
+Liqueur herbal
+Vodka huckleberry
+Liqueur green tea
+Creme de Mandarine
+Liqueur cream
+Schnapps orange
+Pisco
+Vodka grapefruit
+Liqueur toffee
+Vodka passion fruit
+Xtabentún
+Vodka plum
+Rum strawberry
+Nuvo
+Liqueur ginger
+Vodka tea
+Rum lime
+Liqueur Chai Cream
+Syrup Gomme
+Vodka bacon
+Mezcal
+Vodka pomegranate
+Schnapps coconut
+Rum melon
+Sour Island Punch Pucker
+Vodka pink lemonade
+Vodka pecan pie
